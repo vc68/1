@@ -1,0 +1,69 @@
+[
+    {
+        "uuid": "e583a87b-3b78-4ef4-a9f5-0fd0f6f8561f",
+        "enable": true,
+        "name": "4",
+        "data": {
+            "scope": [
+                "all"
+            ],
+            "ruleName": [
+                "isAds",
+                "isLive"
+            ],
+            "ruleValue": "true",
+            "remarks": ""
+        },
+        "dynamicData": []
+    },
+    {
+        "uuid": "6b9e61a1-126b-4d39-ad3a-74bdef150f25",
+        "enable": true,
+        "name": "3",
+        "data": {
+            "scope": [
+                "all"
+            ],
+            "ruleName": [
+                "videoTag",
+                "textExtra"
+            ],
+            "ruleValue": "游戏|动作游戏|解说|电影|新闻|影视",
+            "remarks": ""
+        },
+        "dynamicData": []
+    },
+    {
+        "uuid": "6320ff40-e2dd-44c8-8797-7ce255392a76",
+        "enable": true,
+        "name": "8",
+        "data": {
+            "scope": [
+                "all"
+            ],
+            "ruleName": [
+                "textExtra",
+                "videoTag"
+            ],
+            "ruleValue": "热点|社会百态|人文|旅游|旅行vlog|旅行随拍|时政社会|时政新闻|国际新闻|影视|影视剪辑|电影剪辑|美食|探店|餐厅|科技|数码|拍摄|自媒体|互联网|三角洲|游戏|科技|手机|",
+            "remarks": ""
+        },
+        "dynamicData": []
+    },
+    {
+        "uuid": "59ba824c-1633-454e-9799-cd6918202f7f",
+        "enable": true,
+        "name": "1111",
+        "data": {
+            "scope": [
+                "all"
+            ],
+            "ruleName": [
+                "videoTag"
+            ],
+            "ruleValue": "时政|宣传|科普",
+            "remarks": ""
+        },
+        "dynamicData": []
+    }
+]
